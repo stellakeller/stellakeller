@@ -10,4 +10,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=StellaKeller&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=StellaKeller&icon=9&color=9)](https://visitcount.itsvg.in)
+<!--[![](https://komarev.com/ghpvc/?username=StellaKeller&icon=9&color=9)](https://visitcount.itsvg.in)-->
