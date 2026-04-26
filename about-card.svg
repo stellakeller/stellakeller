@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120">
+  <style>
+    .bg { fill:#0b1220; }
+    .title { fill:#9fb8ff; font-family: Inter, Arial, sans-serif; font-size:18px; font-weight:600; }
+    .line { fill:#cfe3ff; font-family: Inter, Arial, sans-serif; font-size:13px; }
+    .small { fill:#9fb8ff; font-family: Inter, Arial, sans-serif; font-size:11px; }
+    .card { rx:12; }
+  </style>
+  <rect width="720" height="120" class="bg" rx="12"/>
+  <text x="20" y="30" class="title">💫 About Me</text>
+  <text x="20" y="52" class="line">🔭 I’m currently working on: personalized focus‑timer web app & Scala testing</text>
+  <text x="20" y="72" class="line">🤝 I’m looking to collaborate on: automated testing, perf & complexity review</text>
+  <text x="20" y="92" class="line">🔍 Fascinated by: application of CS/CL for speech‑therapy/rehabilitation</text>
+  <text x="20" y="112" class="line">⚡ Fun-Fact: Violinist & soprano — Matura thesis on Bach choral</text>
+</svg>
